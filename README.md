@@ -1,2 +1,2 @@
 # ImageHosting
-This is my ImageHosting
+This is my ImageHosting.
